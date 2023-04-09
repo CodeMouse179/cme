@@ -1,0 +1,23 @@
+# CMake
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+
+# VisualStudio
+.vs
+Debug
+x64
+
+# CMake(VisualStudio)
+/ALL_BUILD.vcxproj
+/ALL_BUILD.vcxproj.filters
+/ALL_BUILD.vcxproj.user
+/ZERO_CHECK.vcxproj
+/ZERO_CHECK.vcxproj.filters
+/ZERO_CHECK.vcxproj.user
+
+# cme(VisualStudio)
+/cme.sln
+/cme.vcxproj
+/cme.vcxproj.filters
+/cme.vcxproj.user
