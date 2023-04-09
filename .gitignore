@@ -3,6 +3,9 @@ CMakeFiles
 CMakeCache.txt
 cmake_install.cmake
 
+# Makefile
+Makefile
+
 # VisualStudio
 .vs
 Debug
@@ -21,3 +24,6 @@ x64
 /cme.vcxproj
 /cme.vcxproj.filters
 /cme.vcxproj.user
+
+# cme(UNIX)
+/cme
