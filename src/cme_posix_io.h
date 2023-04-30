@@ -7,6 +7,7 @@
 #include <unistd.h>
 #include <termios.h>
 #include <sys/ioctl.h>
+bool posix_write_console(int output_handle, const char* buffer, int buffer_size);
 #endif
 
 #endif

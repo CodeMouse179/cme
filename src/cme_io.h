@@ -5,4 +5,6 @@
 #include "cme_posix_io.h"
 #include "cme_windows_io.h"
 
+bool print(const char* str);
+
 #endif
